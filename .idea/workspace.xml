@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6de5517-f5cd-42c7-b2af-3bb1899ec7e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EMyUeJNnZAcAKmyCsZAugofI4P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OneDrive - dgu.ac.kr/0. DTILab/bithong/2022_XAI_MINI" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6de5517-f5cd-42c7-b2af-3bb1899ec7e3" name="Default Changelist" comment="" />
+      <created>1662419764580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662419764580</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="786" y="295" key="FileChooserDialogImpl" timestamp="1667828572038">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state x="786" y="295" key="FileChooserDialogImpl/93.0.1827.1080@93.0.1827.1080" timestamp="1667828572038" />
+    <state width="921" height="548" key="XDebugger.FullValuePopup" timestamp="1665458519143">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state width="921" height="548" key="XDebugger.FullValuePopup/93.0.1827.1080@93.0.1827.1080" timestamp="1665458519143" />
+    <state x="185" y="92" width="1643" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1665456283547">
+      <screen x="93" y="0" width="1827" height="1080" />
+    </state>
+    <state x="185" y="92" width="1643" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/93.0.1827.1080@93.0.1827.1080" timestamp="1665456283547" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/raw_dataset.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/raw_dataset.py</url>
+          <line>244</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/raw_dataset.py</url>
+          <line>227</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EP_full_dataset.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
